@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, "hello darshan", Toast.LENGTH_SHORT).show();
-
                Password.TogglePassword(MainActivity.this,img_icon,et_password,R.drawable.ic_show_pass,R.drawable.ic_hide_pass);
             }
         });
