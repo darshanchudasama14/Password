@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassCode</string>
+    <string name="title_dynamicfeature">TogglePassword</string>
+    <string name="title_togglepassword">Toggle Password</string>
+</resources>
